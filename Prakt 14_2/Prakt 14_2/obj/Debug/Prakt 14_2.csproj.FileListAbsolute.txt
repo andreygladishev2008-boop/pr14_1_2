@@ -1,0 +1,10 @@
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\bin\Debug\Prakt 14_2.exe.config
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\bin\Debug\Prakt 14_2.exe
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\bin\Debug\Prakt 14_2.pdb
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt 14_2.csproj.AssemblyReference.cache
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt_14_2.Form1.resources
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt_14_2.Properties.Resources.resources
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt 14_2.csproj.GenerateResource.cache
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt 14_2.csproj.CoreCompileInputs.cache
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt 14_2.exe
+C:\ГладышевПР_21\Prakt 14_2\Prakt 14_2\obj\Debug\Prakt 14_2.pdb
