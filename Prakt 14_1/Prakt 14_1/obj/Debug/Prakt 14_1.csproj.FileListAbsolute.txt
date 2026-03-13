@@ -1,0 +1,7 @@
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\bin\Debug\Prakt 14_1.exe.config
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\bin\Debug\Prakt 14_1.exe
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\bin\Debug\Prakt 14_1.pdb
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\obj\Debug\Prakt 14_1.csproj.AssemblyReference.cache
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\obj\Debug\Prakt 14_1.csproj.CoreCompileInputs.cache
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\obj\Debug\Prakt 14_1.exe
+C:\ГладышевПР_21\Prakt 14_1\Prakt 14_1\obj\Debug\Prakt 14_1.pdb
